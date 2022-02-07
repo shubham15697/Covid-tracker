@@ -1,0 +1,12 @@
+#searchInputText {
+  width: 340px;
+  height: 50px;
+  box-shadow: 10px 10px 8px #888888;
+  border-radius: 7px;
+}
+#SubmitCountryText {
+  padding: 12px 25px 12px 25px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
